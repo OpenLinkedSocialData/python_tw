@@ -1,0 +1,22 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tw: <http://purl.org/socialparticipation/tw/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#python_tw> a po:Snapshot ;
+    rdfs:label "Snapshot python_tw" ;
+    po:acquiredThrough "Twitter search engine"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/python_tw"^^xsd:string ;
+    po:createdAt "2015-10-15"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twMeta.ttl"^^xsd:string ;
+    po:donatedBy "labMacambira.sf.net"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/python_tw/master/base/python.pickle"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-02T09:30:51.814945"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The Twitter messages related to tweets with the #python hashtag"^^xsd:string .
+

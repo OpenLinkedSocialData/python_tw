@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:tw="http://purl.org/socialparticipation/tw/"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#ShirleyYYoung">
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">277</tw:followersCount>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-18000</tw:utcOffset>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105</tw:favouritesCount>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ShirleyYYoung</tw:sid>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">358</tw:friendsCount>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162677334</tw:uid>
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mountain View, CA</tw:uLocation>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#HansenJudith12">
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">191</tw:followersCount>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HansenJudith12</tw:sid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tw:utcOffset>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">940</tw:favouritesCount>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3652269496</tw:uid>
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coral Gables, FL</tw:uLocation>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1981</tw:friendsCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665756113304817664">
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Better interactive #datascience with Beaker and Rodeo https://t.co/wqXPxoih7o cc: @beakernotebook #rstats #python</tw:messageContent>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</tw:retweetCount>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665756113304817664</tw:messageID>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#DominoDataLab"/>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T05:00:01+00:00</tw:sentAt>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665756198944247808">
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Come creare uno sniffer di rete in #Python https://t.co/HF0wwIz2lU #security</tw:messageContent>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665756198944247808</tw:messageID>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#homelabit"/>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">it</tw:lang>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T05:00:21+00:00</tw:sentAt>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665757603562184704">
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665756555208474624</tw:messageID>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">94% off Learning Python for Data Analysis and Visualization =&amp;gt; https://t.co/3qrJtrWXZg ... #udemy #python https://t.co/Y9We8bWOhm</tw:messageContent>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T05:05:56+00:00</tw:sentAt>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665757603562184704</tw:messageID>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</tw:retweetCount>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RT @coursedeals_: 94% off Learning Python for Data Analysis and Visualization =&amp;gt; https://t.co/3qrJtrWXZg ... #udemy #python https://t.co/Y9…</tw:messageContent>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#EntrepreneurHlp"/>
+    <tw:retweetOf rdf:resource="http://purl.org/socialparticipation/tw/Message#665756555208474624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665753576984215552">
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T04:49:56+00:00</tw:sentAt>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">@IStandWithAhmed 
+Here's solution (no spoiler, though) in the #Python programming language— https://t.co/yFAkVMhqZj
+https://t.co/KL74Mlv22I</tw:messageContent>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665753576984215552</tw:messageID>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <tw:inReplyToUID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3583264572</tw:inReplyToUID>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#JohnnySoftware"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665755000321126401">
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665755000321126401</tw:messageID>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#jburrrg"/>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">It's alive! Robot motion achievement unlocked. #AnotherWildSaturday #Python #Adafruit #i2c https://t.co/qpDJWZCXKL</tw:messageContent>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T04:55:35+00:00</tw:sentAt>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#DominoDataLab">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1728963602</tw:uid>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-14400</tw:utcOffset>
+    <tw:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domino Data Lab</tw:name>
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San Francisco, CA</tw:uLocation>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">982</tw:favouritesCount>
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4563</tw:followersCount>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DominoDataLab</tw:sid>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1625</tw:friendsCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#findingwhatyou1">
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">554</tw:followersCount>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1897</tw:friendsCount>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</tw:favouritesCount>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3308158351</tw:uid>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">findingwhatyou1</tw:sid>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tw:utcOffset>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#homelabit">
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3600</tw:utcOffset>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">homelabit</tw:sid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2409417902</tw:uid>
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">461</tw:followersCount>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">167</tw:friendsCount>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162</tw:favouritesCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665758384889667585">
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#HansenJudith12"/>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665758384889667585</tw:messageID>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">und</tw:lang>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T05:09:02+00:00</tw:sentAt>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Green Python  #python #snake #reptile #yellow #wildlife # https://t.co/EVVM2vAJPG @xseasons</tw:messageContent>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#python_tw">
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/python_tw/master/base/python.pickle</po:originalFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/python_tw</po:availableAt>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twMeta.owl</po:discorveryRDFFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015-10-15</po:createdAt>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Twitter messages related to tweets with the #python hashtag</rdfs:comment>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter search engine</po:acquiredThrough>
+    <rdfs:label>Snapshot python_tw</rdfs:label>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twMeta.ttl</po:discoveryTTLFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twTranslate.ttl</po:ttlFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twTranslate.owl</po:rdfFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-02T09:30:51.814945</po:triplifiedIn>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665752975839653888">
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T04:47:33+00:00</tw:sentAt>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#artwisanggeni"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#python twoline 0.7.13: Manager for simple character LCDs https://t.co/QfSTdnq0wx</tw:messageContent>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665752975839653888</tw:messageID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665757097812979713">
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665757097812979713</tw:messageID>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T05:03:55+00:00</tw:sentAt>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Настраиваем Flask Response Class: https://t.co/PJHS7iqWzb #python</tw:messageContent>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">und</tw:lang>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#pydigest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665752978855325696">
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T04:47:33+00:00</tw:sentAt>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#artwisanggeni"/>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#python pydbusdecorator 1.1: Python decorator for dbus interface client definition https://t.co/Fa7aaeHtZf</tw:messageContent>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665752978855325696</tw:messageID>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">es</tw:lang>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#rautsan">
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1113</tw:followersCount>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rautsan</tw:sid>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">226</tw:favouritesCount>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1795</tw:friendsCount>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mumbai, India</tw:uLocation>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19800</tw:utcOffset>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45364918</tw:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#pydigest">
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</tw:friendsCount>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10800</tw:utcOffset>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</tw:favouritesCount>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pydigest</tw:sid>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2552250270</tw:uid>
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">546</tw:followersCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#jburrrg">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1414</tw:favouritesCount>
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">89</tw:followersCount>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">187</tw:friendsCount>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">395040719</tw:uid>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tw:utcOffset>
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ballard, WA</tw:uLocation>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jburrrg</tw:sid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665756397993377792">
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</tw:retweetCount>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Better interactive #datascience with Beaker and Rodeo https://t.co/wqXPxoih7o cc: @beakernotebook #rstats #python</tw:messageContent>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RT @DominoDataLab: Better interactive #datascience with Beaker and Rodeo https://t.co/wqXPxoih7o cc: @beakernotebook #rstats #python</tw:messageContent>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665756397993377792</tw:messageID>
+    <tw:retweetOf rdf:resource="http://purl.org/socialparticipation/tw/Message#665756113304817664"/>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665756113304817664</tw:messageID>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T05:01:09+00:00</tw:sentAt>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#ShirleyYYoung"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665754399143260160">
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#rautsan"/>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665754399143260160</tw:messageID>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RT @AnalyticsVidhya: Step 0 to 8, Learning path: #Python for data analysis, with #infographic. https://t.co/Qc43bLaF7M #machinelearning htt…</tw:messageContent>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</tw:retweetCount>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Step 0 to 8, Learning path: #Python for data analysis, with #infographic. https://t.co/Qc43bLaF7M #machinelearning https://t.co/42Ijmzvf4i</tw:messageContent>
+    <tw:retweetOf rdf:resource="http://purl.org/socialparticipation/tw/Message#662122523241422848"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662122523241422848</tw:messageID>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T04:53:12+00:00</tw:sentAt>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#AnalyticsVidhya">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Analytics Vidhya</tw:name>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2311645130</tw:uid>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AnalyticsVidhya</tw:sid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#EntrepreneurHlp">
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:favouritesCount>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42</tw:friendsCount>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4004753655</tw:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tw:utcOffset>
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Online</tw:uLocation>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EntrepreneurHlp</tw:sid>
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</tw:followersCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#coursedeals_">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coursedeals_</tw:sid>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">529</tw:friendsCount>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:favouritesCount>
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Online</tw:uLocation>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4048732829</tw:uid>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tw:utcOffset>
+    <tw:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Course Deals</tw:name>
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">207</tw:followersCount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665752982709927936">
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665752982709927936</tw:messageID>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#artwisanggeni"/>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#python wetransfer-upload 0.0.3: Upload files to WeTransfer from the Command Line https://t.co/PA5N4FRHV8</tw:messageContent>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T04:47:34+00:00</tw:sentAt>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665758530943619072">
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T05:09:37+00:00</tw:sentAt>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#findingwhatyou1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665758530943619072</tw:messageID>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Check out MATTEL HOT WHEELS RED LINE 1987 PYTHON PURPLE BOYS  #Mattel #PYTHON https://t.co/PaJExuyeJ7 via @eBay</tw:messageContent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665752985633296384">
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#python prompter 0.3.10: Simple CUI input prompt https://t.co/n5YvabADOq</tw:messageContent>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T04:47:35+00:00</tw:sentAt>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</tw:retweetCount>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#artwisanggeni"/>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665752985633296384</tw:messageID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#artwisanggeni">
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</tw:favouritesCount>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">929084149</tw:uid>
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">203</tw:followersCount>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61</tw:friendsCount>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25200</tw:utcOffset>
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yogyakarta</tw:uLocation>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">artwisanggeni</tw:sid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#665756555208474624">
+    <tw:messageContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">94% off Learning Python for Data Analysis and Visualization =&amp;gt; https://t.co/3qrJtrWXZg ... #udemy #python https://t.co/Y9We8bWOhm</tw:messageContent>
+    <tw:author rdf:resource="http://purl.org/socialparticipation/tw/Participant#coursedeals_"/>
+    <tw:sentAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T05:01:46+00:00</tw:sentAt>
+    <tw:retweetCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</tw:retweetCount>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+    <tw:messageID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">665756555208474624</tw:messageID>
+    <tw:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</tw:lang>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Participant#JohnnySoftware">
+    <tw:uLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USA</tw:uLocation>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Participant"/>
+    <tw:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JohnnySoftware</tw:sid>
+    <tw:favouritesCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26285</tw:favouritesCount>
+    <tw:utcOffset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-18000</tw:utcOffset>
+    <tw:followersCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">776</tw:followersCount>
+    <tw:friendsCount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">610</tw:friendsCount>
+    <tw:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15220853</tw:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/tw/Message#662122523241422848">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/tw/Message"/>
+  </rdf:Description>
+</rdf:RDF>

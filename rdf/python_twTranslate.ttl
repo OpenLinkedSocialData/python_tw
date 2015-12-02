@@ -1,0 +1,268 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tw: <http://purl.org/socialparticipation/tw/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#python_tw> a po:Snapshot ;
+    rdfs:label "Snapshot python_tw" ;
+    po:acquiredThrough "Twitter search engine"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/python_tw"^^xsd:string ;
+    po:createdAt "2015-10-15"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twMeta.ttl"^^xsd:string ;
+    po:donatedBy "labMacambira.sf.net"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/python_tw/master/base/python.pickle"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-02T09:30:51.814945"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/python_tw/master/rdf/python_twTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The Twitter messages related to tweets with the #python hashtag"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Message#665752975839653888> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#artwisanggeni> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#python twoline 0.7.13: Manager for simple character LCDs https://t.co/QfSTdnq0wx"^^xsd:string ;
+    tw:messageID "665752975839653888"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T04:47:33+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665752978855325696> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#artwisanggeni> ;
+    tw:lang "es"^^xsd:string ;
+    tw:messageContent "#python pydbusdecorator 1.1: Python decorator for dbus interface client definition https://t.co/Fa7aaeHtZf"^^xsd:string ;
+    tw:messageID "665752978855325696"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T04:47:33+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665752982709927936> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#artwisanggeni> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#python wetransfer-upload 0.0.3: Upload files to WeTransfer from the Command Line https://t.co/PA5N4FRHV8"^^xsd:string ;
+    tw:messageID "665752982709927936"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T04:47:34+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665752985633296384> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#artwisanggeni> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#python prompter 0.3.10: Simple CUI input prompt https://t.co/n5YvabADOq"^^xsd:string ;
+    tw:messageID "665752985633296384"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T04:47:35+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665753576984215552> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#JohnnySoftware> ;
+    tw:inReplyToUID "3583264572"^^xsd:string ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """@IStandWithAhmed 
+Here's solution (no spoiler, though) in the #Python programming language— https://t.co/yFAkVMhqZj
+https://t.co/KL74Mlv22I"""^^xsd:string ;
+    tw:messageID "665753576984215552"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T04:49:56+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665754399143260160> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#rautsan> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @AnalyticsVidhya: Step 0 to 8, Learning path: #Python for data analysis, with #infographic. https://t.co/Qc43bLaF7M #machinelearning htt…"^^xsd:string,
+        "Step 0 to 8, Learning path: #Python for data analysis, with #infographic. https://t.co/Qc43bLaF7M #machinelearning https://t.co/42Ijmzvf4i"^^xsd:string ;
+    tw:messageID "662122523241422848"^^xsd:string,
+        "665754399143260160"^^xsd:string ;
+    tw:retweetCount "3"^^xsd:string ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#662122523241422848> ;
+    tw:sentAt "2015-11-15T04:53:12+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665755000321126401> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#jburrrg> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "It's alive! Robot motion achievement unlocked. #AnotherWildSaturday #Python #Adafruit #i2c https://t.co/qpDJWZCXKL"^^xsd:string ;
+    tw:messageID "665755000321126401"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T04:55:35+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665756198944247808> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#homelabit> ;
+    tw:lang "it"^^xsd:string ;
+    tw:messageContent "Come creare uno sniffer di rete in #Python https://t.co/HF0wwIz2lU #security"^^xsd:string ;
+    tw:messageID "665756198944247808"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T05:00:21+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665756397993377792> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ShirleyYYoung> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Better interactive #datascience with Beaker and Rodeo https://t.co/wqXPxoih7o cc: @beakernotebook #rstats #python"^^xsd:string,
+        "RT @DominoDataLab: Better interactive #datascience with Beaker and Rodeo https://t.co/wqXPxoih7o cc: @beakernotebook #rstats #python"^^xsd:string ;
+    tw:messageID "665756113304817664"^^xsd:string,
+        "665756397993377792"^^xsd:string ;
+    tw:retweetCount "1"^^xsd:string ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#665756113304817664> ;
+    tw:sentAt "2015-11-15T05:01:09+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665757097812979713> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#pydigest> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent "Настраиваем Flask Response Class: https://t.co/PJHS7iqWzb #python"^^xsd:string ;
+    tw:messageID "665757097812979713"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T05:03:55+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665757603562184704> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#EntrepreneurHlp> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "94% off Learning Python for Data Analysis and Visualization =&gt; https://t.co/3qrJtrWXZg ... #udemy #python https://t.co/Y9We8bWOhm"^^xsd:string,
+        "RT @coursedeals_: 94% off Learning Python for Data Analysis and Visualization =&gt; https://t.co/3qrJtrWXZg ... #udemy #python https://t.co/Y9…"^^xsd:string ;
+    tw:messageID "665756555208474624"^^xsd:string,
+        "665757603562184704"^^xsd:string ;
+    tw:retweetCount "1"^^xsd:string ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#665756555208474624> ;
+    tw:sentAt "2015-11-15T05:05:56+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665758384889667585> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#HansenJudith12> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent "Green Python  #python #snake #reptile #yellow #wildlife # https://t.co/EVVM2vAJPG @xseasons"^^xsd:string ;
+    tw:messageID "665758384889667585"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T05:09:02+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665758530943619072> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#findingwhatyou1> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Check out MATTEL HOT WHEELS RED LINE 1987 PYTHON PURPLE BOYS  #Mattel #PYTHON https://t.co/PaJExuyeJ7 via @eBay"^^xsd:string ;
+    tw:messageID "665758530943619072"^^xsd:string ;
+    tw:retweetCount "0"^^xsd:string ;
+    tw:sentAt "2015-11-15T05:09:37+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Participant#AnalyticsVidhya> a tw:Participant ;
+    tw:name "Analytics Vidhya"^^xsd:string ;
+    tw:sid "AnalyticsVidhya"^^xsd:string ;
+    tw:uid "2311645130"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Message#662122523241422848> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#665756113304817664> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#DominoDataLab> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Better interactive #datascience with Beaker and Rodeo https://t.co/wqXPxoih7o cc: @beakernotebook #rstats #python"^^xsd:string ;
+    tw:messageID "665756113304817664"^^xsd:string ;
+    tw:retweetCount "1"^^xsd:string ;
+    tw:sentAt "2015-11-15T05:00:01+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#665756555208474624> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#coursedeals_> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "94% off Learning Python for Data Analysis and Visualization =&gt; https://t.co/3qrJtrWXZg ... #udemy #python https://t.co/Y9We8bWOhm"^^xsd:string ;
+    tw:messageID "665756555208474624"^^xsd:string ;
+    tw:retweetCount "1"^^xsd:string ;
+    tw:sentAt "2015-11-15T05:01:46+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Participant#DominoDataLab> a tw:Participant ;
+    tw:favouritesCount "982"^^xsd:string ;
+    tw:followersCount "4563"^^xsd:string ;
+    tw:friendsCount "1625"^^xsd:string ;
+    tw:name "Domino Data Lab"^^xsd:string ;
+    tw:sid "DominoDataLab"^^xsd:string ;
+    tw:uLocation "San Francisco, CA"^^xsd:string ;
+    tw:uid "1728963602"^^xsd:string ;
+    tw:utcOffset "-14400"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#EntrepreneurHlp> a tw:Participant ;
+    tw:favouritesCount "0"^^xsd:string ;
+    tw:followersCount "27"^^xsd:string ;
+    tw:friendsCount "42"^^xsd:string ;
+    tw:sid "EntrepreneurHlp"^^xsd:string ;
+    tw:uLocation "Online"^^xsd:string ;
+    tw:uid "4004753655"^^xsd:string ;
+    tw:utcOffset "None"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#HansenJudith12> a tw:Participant ;
+    tw:favouritesCount "940"^^xsd:string ;
+    tw:followersCount "191"^^xsd:string ;
+    tw:friendsCount "1981"^^xsd:string ;
+    tw:sid "HansenJudith12"^^xsd:string ;
+    tw:uLocation "Coral Gables, FL"^^xsd:string ;
+    tw:uid "3652269496"^^xsd:string ;
+    tw:utcOffset "None"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#JohnnySoftware> a tw:Participant ;
+    tw:favouritesCount "26285"^^xsd:string ;
+    tw:followersCount "776"^^xsd:string ;
+    tw:friendsCount "610"^^xsd:string ;
+    tw:sid "JohnnySoftware"^^xsd:string ;
+    tw:uLocation "USA"^^xsd:string ;
+    tw:uid "15220853"^^xsd:string ;
+    tw:utcOffset "-18000"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ShirleyYYoung> a tw:Participant ;
+    tw:favouritesCount "105"^^xsd:string ;
+    tw:followersCount "277"^^xsd:string ;
+    tw:friendsCount "358"^^xsd:string ;
+    tw:sid "ShirleyYYoung"^^xsd:string ;
+    tw:uLocation "Mountain View, CA"^^xsd:string ;
+    tw:uid "162677334"^^xsd:string ;
+    tw:utcOffset "-18000"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#coursedeals_> a tw:Participant ;
+    tw:favouritesCount "0"^^xsd:string ;
+    tw:followersCount "207"^^xsd:string ;
+    tw:friendsCount "529"^^xsd:string ;
+    tw:name "Course Deals"^^xsd:string ;
+    tw:sid "coursedeals_"^^xsd:string ;
+    tw:uLocation "Online"^^xsd:string ;
+    tw:uid "4048732829"^^xsd:string ;
+    tw:utcOffset "None"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#findingwhatyou1> a tw:Participant ;
+    tw:favouritesCount "31"^^xsd:string ;
+    tw:followersCount "554"^^xsd:string ;
+    tw:friendsCount "1897"^^xsd:string ;
+    tw:sid "findingwhatyou1"^^xsd:string ;
+    tw:uid "3308158351"^^xsd:string ;
+    tw:utcOffset "None"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#homelabit> a tw:Participant ;
+    tw:favouritesCount "162"^^xsd:string ;
+    tw:followersCount "461"^^xsd:string ;
+    tw:friendsCount "167"^^xsd:string ;
+    tw:sid "homelabit"^^xsd:string ;
+    tw:uid "2409417902"^^xsd:string ;
+    tw:utcOffset "3600"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#jburrrg> a tw:Participant ;
+    tw:favouritesCount "1414"^^xsd:string ;
+    tw:followersCount "89"^^xsd:string ;
+    tw:friendsCount "187"^^xsd:string ;
+    tw:sid "jburrrg"^^xsd:string ;
+    tw:uLocation "Ballard, WA"^^xsd:string ;
+    tw:uid "395040719"^^xsd:string ;
+    tw:utcOffset "None"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#pydigest> a tw:Participant ;
+    tw:favouritesCount "1"^^xsd:string ;
+    tw:followersCount "546"^^xsd:string ;
+    tw:friendsCount "22"^^xsd:string ;
+    tw:sid "pydigest"^^xsd:string ;
+    tw:uid "2552250270"^^xsd:string ;
+    tw:utcOffset "10800"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#rautsan> a tw:Participant ;
+    tw:favouritesCount "226"^^xsd:string ;
+    tw:followersCount "1113"^^xsd:string ;
+    tw:friendsCount "1795"^^xsd:string ;
+    tw:sid "rautsan"^^xsd:string ;
+    tw:uLocation "Mumbai, India"^^xsd:string ;
+    tw:uid "45364918"^^xsd:string ;
+    tw:utcOffset "19800"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#artwisanggeni> a tw:Participant ;
+    tw:favouritesCount "14"^^xsd:string ;
+    tw:followersCount "203"^^xsd:string ;
+    tw:friendsCount "61"^^xsd:string ;
+    tw:sid "artwisanggeni"^^xsd:string ;
+    tw:uLocation "Yogyakarta"^^xsd:string ;
+    tw:uid "929084149"^^xsd:string ;
+    tw:utcOffset "25200"^^xsd:string .
+
